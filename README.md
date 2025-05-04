@@ -23,11 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<video src="https://www.loom.com/share/eb5c109e67ae4112b210fa602f00ed33?sid=60b5f41e-c1d4-4f84-b51f-51034cb382f2">
+[▶ Watch the video on Loom](https://www.loom.com/share/eb5c109e67ae4112b210fa602f00ed33?sid=617d4572-a92d-4b1c-a5d8-927efa5ba640)
 
 <!-- Replace this with whatever GIF tool you used! -->
-Video created with Loom  
+Gif created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
