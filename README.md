@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Site walkthrough](assets/CodePathWeb102Prework-ezgif.com-video-to-gif-converter.gif)
 
 [▶ Watch the video on Loom](https://www.loom.com/share/eb5c109e67ae4112b210fa602f00ed33?sid=617d4572-a92d-4b1c-a5d8-927efa5ba640)
 
